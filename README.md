@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taha1dev" alt="taha1dev" /></a> </p>
 
-- 🔭 I’m currently working on **pharmaasisst**
+- 🔭 I’m currently working on [pharmaasisst](https://github.com/Taha1dev/pharmasisst)
 
 - 🌱 I’m currently learning **Next.js13**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Taha1dev](https://github.com/Taha1dev) 
+- 👨‍💻 All of my projects are available at [https://github.com/Taha1dev](https://github.com/Taha1dev)
 
-- 📝 I regularly write articles on [(https://www.linkedin.com/in/taha-al-mulla-17a76923a/)](Taha)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/taha-al-mulla-17a76923a/](https://www.linkedin.com/in/taha-al-mulla-17a76923a/)
 
 - 💬 Ask me about **Reactjs | Next.js**
 
@@ -19,10 +19,14 @@
 
 - 📄 Know about my experiences [https://rxresu.me/taha.bus11/taha-almulla](https://rxresu.me/taha.bus11/taha-almulla)
 
+- ⚡ Fun fact **I think I'm Funny 😁**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/taha-al-mulla-17a76923a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha-al-mulla-17a76923a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19835236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19835236" height="30" width="40" /></a>
+<a href="https://dribbble.com/taha1dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="taha1dev" height="30" width="40" /></a>
+<a href="https://www.behance.net/tahaal-mulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tahaal-mulla" height="30" width="40" /></a>
 <a href="https://medium.com/@tahadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tahadev" height="30" width="40" /></a>
 </p>
 
