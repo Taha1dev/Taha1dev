@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Next.js13**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Taha1dev](https://github.com/Taha1dev) (Taha1dev)
+- 👨‍💻 All of my projects are available at [https://github.com/Taha1dev](https://github.com/Taha1dev) 
 
-- 📝 I regularly write articles on [[Not Yet](https://www.linkedin.com/in/taha-al-mulla-17a76923a/)](Taha)
+- 📝 I regularly write articles on [(https://www.linkedin.com/in/taha-al-mulla-17a76923a/)](Taha)
 
 - 💬 Ask me about **Reactjs | Next.js**
 
